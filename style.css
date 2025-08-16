@@ -1,0 +1,22 @@
+header{
+    width: 100vw;
+    height: 100vh;
+}
+nav{
+    display: flex  ;
+    height: 40%;
+    width: 100%;
+    background-color: red;
+}
+
+.logo-block{
+    height: 100%;
+    width: 28%;
+    background-color: blue;
+}
+.link-block{
+    height: 100%;
+    width: 72%;
+    background-color: black;
+}
+
