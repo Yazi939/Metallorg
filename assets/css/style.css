@@ -44,6 +44,15 @@ nav{
     flex-wrap: wrap;
     align-content: center;
     justify-content: center;
-    
+}
+.button-text{
+    width: 161px;
+    height: 56px;
+    border-radius: 40px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
 }
 
